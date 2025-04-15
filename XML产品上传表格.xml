@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:initial-creator>Tommy</meta:initial-creator><dc:creator>东方玉旺之等待小蝴蝶的金刚葫芦娃</dc:creator><meta:creation-date>2025-04-01T09:46:00</meta:creation-date><dc:date>2025-04-10T08:46:00</dc:date><meta:generator>LibreOffice/24.8.1.2$Linux_X86_64 LibreOffice_project/87fa9aec1a63e70835390b81c40bb8993f1d4ff6</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="135" meta:object-count="0"/><meta:user-defined meta:name="ICV">AFA886ECDA0A417E902645C814FAF47B_11</meta:user-defined><meta:user-defined meta:name="KSOProductBuildVer">2052-12.1.0.20784</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">63137</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">16951</config:config-item>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GridColor" config:type="int">-1</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ShowFormulasMarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNoteAuthor" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Arial" svg:font-family="Arial"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="宋体" svg:font-family="宋体"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="0.5in"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="en" fo:country="US" style:font-name-asian="Microsoft YaHei" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" style:writing-mode="page"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="page" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-family-asian="&apos;Segoe UI&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:style style:name="Default" style:family="graphic"/>
+  <style:style style:name="Note" style:family="graphic" style:parent-style-name="Default">
+   <style:graphic-properties draw:stroke="solid" draw:marker-start="Arrowheads_20_1" draw:marker-start-width="0.0787in" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:padding-top="0.0394in" fo:padding-bottom="0.0394in" fo:padding-left="0.0394in" fo:padding-right="0.0394in" draw:shadow="visible" draw:shadow-offset-x="0.0394in" draw:shadow-offset-y="0.0394in"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="10pt" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="10pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt"/>
+  </style:style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:currency-style style:name="N129P0" style:volatile="true">
+   <number:currency-symbol/>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=")"> </number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N129">
+   <number:text>(</number:text>
+   <number:currency-symbol/>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N129P0"/>
+  </number:currency-style>
+  <number:currency-style style:name="N130P0" style:volatile="true">
+   <number:currency-symbol/>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=")"> </number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N130">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>(</number:text>
+   <number:currency-symbol/>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N130P0"/>
+  </number:currency-style>
+  <number:currency-style style:name="N131P0" style:volatile="true">
+   <number:currency-symbol/>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=")"> </number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N131">
+   <number:text>(</number:text>
+   <number:currency-symbol/>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N131P0"/>
+  </number:currency-style>
+  <number:currency-style style:name="N132P0" style:volatile="true">
+   <number:currency-symbol/>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=")"> </number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N132">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>(</number:text>
+   <number:currency-symbol/>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N132P0"/>
+  </number:currency-style>
+  <number:date-style style:name="N133">
+   <number:month/>
+   <number:text>/</number:text>
+   <number:day/>
+   <number:text>/</number:text>
+   <number:year number:style="long"/>
+  </number:date-style>
+  <number:date-style style:name="N134">
+   <number:day/>
+   <number:text>-</number:text>
+   <number:month number:textual="true"/>
+   <number:text>-</number:text>
+   <number:year/>
+  </number:date-style>
+  <number:date-style style:name="N135">
+   <number:day/>
+   <number:text>-</number:text>
+   <number:month number:textual="true"/>
+  </number:date-style>
+  <number:date-style style:name="N136">
+   <number:month number:textual="true"/>
+   <number:text>-</number:text>
+   <number:year/>
+  </number:date-style>
+  <number:time-style style:name="N137">
+   <number:hours/>
+   <number:text>:</number:text>
+   <number:minutes number:style="long"/>
+   <number:text> </number:text>
+   <number:am-pm/>
+  </number:time-style>
+  <number:time-style style:name="N138">
+   <number:hours/>
+   <number:text>:</number:text>
+   <number:minutes number:style="long"/>
+   <number:text>:</number:text>
+   <number:seconds number:style="long"/>
+   <number:text> </number:text>
+   <number:am-pm/>
+  </number:time-style>
+  <number:time-style style:name="N139">
+   <number:hours/>
+   <number:text>:</number:text>
+   <number:minutes number:style="long"/>
+  </number:time-style>
+  <number:time-style style:name="N140">
+   <number:hours/>
+   <number:text>:</number:text>
+   <number:minutes number:style="long"/>
+   <number:text>:</number:text>
+   <number:seconds number:style="long"/>
+  </number:time-style>
+  <number:date-style style:name="N141">
+   <number:month/>
+   <number:text>/</number:text>
+   <number:day/>
+   <number:text>/</number:text>
+   <number:year number:style="long"/>
+   <number:text> </number:text>
+   <number:hours/>
+   <number:text>:</number:text>
+   <number:minutes number:style="long"/>
+  </number:date-style>
+  <number:number-style style:name="N142P0" style:volatile="true">
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=")"> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N142">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>(</number:text>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N142P0"/>
+  </number:number-style>
+  <number:number-style style:name="N143P0" style:volatile="true">
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=")"> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N143">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>(</number:text>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N143P0"/>
+  </number:number-style>
+  <number:number-style style:name="N144P0" style:volatile="true">
+   <number:text loext:blank-width-char=" "> </number:text>
+   <number:fill-character> </number:fill-character>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=" "> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N144P1" style:volatile="true">
+   <number:text loext:blank-width-char=" "> </number:text>
+   <number:fill-character> </number:fill-character>
+   <number:text>-</number:text>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=" "> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N144P2" style:volatile="true">
+   <number:text loext:blank-width-char=" "> </number:text>
+   <number:fill-character> </number:fill-character>
+   <number:text loext:blank-width-char=" 1">- </number:text>
+  </number:number-style>
+  <number:text-style style:name="N144">
+   <number:text loext:blank-width-char=" "> </number:text>
+   <number:text-content/>
+   <number:text loext:blank-width-char=" "> </number:text>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N144P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N144P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N144P2"/>
+  </number:text-style>
+  <number:number-style style:name="N145P0" style:volatile="true">
+   <number:text loext:blank-width-char=" "> ￥</number:text>
+   <number:fill-character> </number:fill-character>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=" "> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N145P1" style:volatile="true">
+   <number:text loext:blank-width-char=" "> ￥</number:text>
+   <number:fill-character> </number:fill-character>
+   <number:text>-</number:text>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=" "> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N145P2" style:volatile="true">
+   <number:text loext:blank-width-char=" "> ￥</number:text>
+   <number:fill-character> </number:fill-character>
+   <number:text loext:blank-width-char=" 1">- </number:text>
+  </number:number-style>
+  <number:text-style style:name="N145">
+   <number:text loext:blank-width-char=" "> </number:text>
+   <number:text-content/>
+   <number:text loext:blank-width-char=" "> </number:text>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N145P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N145P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N145P2"/>
+  </number:text-style>
+  <number:number-style style:name="N146P0" style:volatile="true">
+   <number:text loext:blank-width-char=" "> </number:text>
+   <number:fill-character> </number:fill-character>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=" "> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N146P1" style:volatile="true">
+   <number:text loext:blank-width-char=" "> </number:text>
+   <number:fill-character> </number:fill-character>
+   <number:text>-</number:text>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=" "> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N146P2" style:volatile="true">
+   <number:text loext:blank-width-char=" "> </number:text>
+   <number:fill-character> </number:fill-character>
+   <number:text>-</number:text>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="2" loext:max-blank-integer-digits="2"/>
+   <number:text loext:blank-width-char=" "> </number:text>
+  </number:number-style>
+  <number:text-style style:name="N146">
+   <number:text loext:blank-width-char=" "> </number:text>
+   <number:text-content/>
+   <number:text loext:blank-width-char=" "> </number:text>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N146P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N146P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N146P2"/>
+  </number:text-style>
+  <number:number-style style:name="N147P0" style:volatile="true">
+   <number:text loext:blank-width-char=" "> ￥</number:text>
+   <number:fill-character> </number:fill-character>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=" "> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N147P1" style:volatile="true">
+   <number:text loext:blank-width-char=" "> ￥</number:text>
+   <number:fill-character> </number:fill-character>
+   <number:text>-</number:text>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text loext:blank-width-char=" "> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N147P2" style:volatile="true">
+   <number:text loext:blank-width-char=" "> ￥</number:text>
+   <number:fill-character> </number:fill-character>
+   <number:text>-</number:text>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="2" loext:max-blank-integer-digits="2"/>
+   <number:text loext:blank-width-char=" "> </number:text>
+  </number:number-style>
+  <number:text-style style:name="N147">
+   <number:text loext:blank-width-char=" "> </number:text>
+   <number:text-content/>
+   <number:text loext:blank-width-char=" "> </number:text>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N147P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N147P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N147P2"/>
+  </number:text-style>
+  <number:time-style style:name="N148">
+   <number:minutes number:style="long"/>
+   <number:text>:</number:text>
+   <number:seconds number:style="long"/>
+  </number:time-style>
+  <number:time-style style:name="N149" number:truncate-on-overflow="false">
+   <number:hours/>
+   <number:text>:</number:text>
+   <number:minutes number:style="long"/>
+   <number:text>:</number:text>
+   <number:seconds number:style="long"/>
+  </number:time-style>
+  <number:time-style style:name="N150">
+   <number:minutes number:style="long"/>
+   <number:text>:</number:text>
+   <number:seconds number:style="long" number:decimal-places="1"/>
+  </number:time-style>
+  <number:number-style style:name="N151">
+   <number:scientific-number number:decimal-places="1" number:min-decimal-places="1" number:min-integer-digits="1" number:min-exponent-digits="1" number:exponent-interval="3" number:forced-exponent-sign="true"/>
+  </number:number-style>
+  <style:style style:name="Default" style:family="table-cell">
+   <style:table-cell-properties style:rotation-align="none" style:vertical-align="middle"/>
+   <style:text-properties fo:color="#000000" style:font-name="宋体" fo:font-family="宋体" fo:font-size="11pt" style:font-name-asian="宋体" style:font-family-asian="宋体" style:font-size-asian="11pt" style:font-size-complex="11pt">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme"/>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:font-size="24pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="24pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="24pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="Text" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+  </style:style>
+  <style:style style:name="Note" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:background-color="#ffffcc" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:wrap-option="no-wrap" fo:border="0.74pt solid #808080" style:shrink-to-fit="false"/>
+   <style:text-properties fo:color="#333333"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:color="#808080" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Hyperlink" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:color="#0000ee" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#0000ee"/>
+  </style:style>
+  <style:style style:name="Status" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+  </style:style>
+  <style:style style:name="Good" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ccffcc" fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:color="#006600"/>
+  </style:style>
+  <style:style style:name="Neutral" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffffcc" fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:color="#996600"/>
+  </style:style>
+  <style:style style:name="Bad" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffcccc" fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:color="#cc0000"/>
+  </style:style>
+  <style:style style:name="Warning" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:color="#cc0000"/>
+  </style:style>
+  <style:style style:name="Error" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#cc0000" fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:color="#ffffff" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Accent" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Accent_20_1" style:display-name="Accent 1" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#000000" fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="Accent_20_2" style:display-name="Accent 2" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#808080" fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="Accent_20_3" style:display-name="Accent 3" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#dddddd" fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="no-wrap" style:shrink-to-fit="false"/>
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <draw:marker draw:name="Arrowheads_20_1" draw:display-name="Arrowheads 1" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+  <loext:theme loext:name="WPS">
+   <loext:theme-colors loext:name="WPS">
+    <loext:color loext:name="dark1" loext:color="#000000"/>
+    <loext:color loext:name="light1" loext:color="#ffffff"/>
+    <loext:color loext:name="dark2" loext:color="#44546a"/>
+    <loext:color loext:name="light2" loext:color="#e7e6e6"/>
+    <loext:color loext:name="accent1" loext:color="#4874cb"/>
+    <loext:color loext:name="accent2" loext:color="#ee822f"/>
+    <loext:color loext:name="accent3" loext:color="#f2ba02"/>
+    <loext:color loext:name="accent4" loext:color="#75bd42"/>
+    <loext:color loext:name="accent5" loext:color="#30c0b4"/>
+    <loext:color loext:name="accent6" loext:color="#e54c5e"/>
+    <loext:color loext:name="hyperlink" loext:color="#0026e5"/>
+    <loext:color loext:name="followed-hyperlink" loext:color="#7e1fad"/>
+   </loext:theme-colors>
+  </loext:theme>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.0209in"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.4862in"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.6665in"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.1528in"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.2984in"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.6665in"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="5.5654in"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="0.4866in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="0.798in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro3" style:family="table-row">
+   <style:table-row-properties style:row-height="0.9535in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro4" style:family="table-row">
+   <style:table-row-properties style:row-height="2.0417in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro5" style:family="table-row">
+   <style:table-row-properties style:row-height="0.1874in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="PageStyle_5f_Sheet1">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <number:number-style style:name="N2">
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1"/>
+  </number:number-style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="1.76pt solid #cccccc" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
+   <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Arial" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="bold">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme"/>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="wrap" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="middle" loext:vertical-justify="auto"/>
+   <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:first-page-number="continue" style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.0984in"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.0984in" fo:border="1.5pt solid #000000" fo:padding="0.0071in" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in" fo:border="1.5pt solid #000000" fo:padding="0.0071in" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm3">
+   <style:page-layout-properties style:num-format="1" style:print-orientation="portrait" fo:margin-top="1in" fo:margin-bottom="1in" fo:margin-left="0.75in" fo:margin-right="0.75in" style:print-page-order="ttb" style:first-page-number="continue" style:scale-to="100%" style:writing-mode="lr-tb" style:print="charts drawings objects zero-values"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.0984in"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in"/>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:header-first style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+   <style:footer-first style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2025-04-15">00/00/0000</text:date>, <text:time>00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:header-first style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number><text:s/>/ <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+   <style:footer-first style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="PageStyle_5f_Sheet1" style:display-name="PageStyle_Sheet1" style:page-layout-name="pm3">
+   <style:header style:display="false"/>
+   <style:header-left style:display="false"/>
+   <style:header-first style:display="false"/>
+   <style:footer style:display="false"/>
+   <style:footer-left style:display="false"/>
+   <style:footer-first style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:calculation-settings table:case-sensitive="false" table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true">
+    <table:iteration table:maximum-difference="0.0001"/>
+   </table:calculation-settings>
+   <table:table table:name="Sheet1" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:number-columns-repeated="15" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co6" table:number-columns-repeated="16363" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>category-id</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>category-name</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>barcode</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>supplier-code</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>manufacturer-code</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>title-lt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>title-ru</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>title-lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>title-ee</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>title-fi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>long-description-lt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>long-description-ru</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>long-description-lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>long-description-ee</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>long-description-fi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>video-youtube</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>author</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>publisher</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>language1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>language2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>image-url (多链接换行)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>weight</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>length</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>height</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>width</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16359"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="float" office:value="21618" calcext:value-type="float">
+      <text:p>21618</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Engine parts</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
+      <text:p>7437612724032</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2 radiatorių rinkinys Trijų krypčių vandens vamzdžių įleidimo angos ir išleidimo žarnos suderinama 10-15 „Chevrolet Cruze“ 95390887 95390883 9075007 9075008 black</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Huitan gredzena zilā sērija sievietēm 4 krāsās pieejamās saistības gredzena sudraba rotaslietas emaljēja vienkāršu kāzu gredzena gadadienas dāvanu B2634</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2 radiatora trīsceļu ūdens pīpes ieplūdes un izejas šļūtenes saderīga 10-15 Chevrolet Cruze 95390887 95390883 9075007 9075008 black</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Komplekt 2 radiaatori kolmesuunaline veetoru sisselaskeava ja väljalaskeavaga ühilduv 10-15 Chevrolet Cruze 95390887 95390883 9075007 9075008 black</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2 säteilijän kolmisuuntainen vesiputken sisääntulo- ja poistoletku black</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Būklė: „NewFitment“ tipas: Tiesioginis pakaitinis gamyklos dalis Dalies numeris: 9075007 9085008OTHOTH DALE NUMERIS Paveikslėlis šiek tiek skiriasi nuo tikro dalyko. Matavimas leido klaida yra +/- 1-3cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>&lt;p style=&quot;font-size:14px;font-weight:Demi Bold;color:#1E1F26&quot;&gt;Projektēšanas pievilcība&lt;/p&gt;&lt;p style=&quot;font-size:13px;font-weight:Medium;color:#4D5360&quot;&gt; Izmantojot modernu ģeometrisko dizainu ar padomu pielāgošanu, jebkuram apģērbam pievienojiet izsmalcinātību.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:14px;font-weight:Demi Bold;color:#1E1F26&quot;&gt; Iesaiņojums&lt;/p&gt;&lt;p style=&quot;font-size:13px;font-weight:Medium;color:#4D5360&quot;&gt; Katram gredzenam ir APP aizsargbaga, kas garantē, ka tas nonāk pilnīgā stāvoklī.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:14px;font-weight:Demi Bold;color:#1E1F26&quot;&gt; Materiāla kvalitāte&lt;/p&gt;&lt;p style=&quot;font-size:13px;font-weight:Medium;color:#4D5360&quot;&gt; Šis gredzens, kas sagatavots ar augstas kvalitātes misiņu un izrotāts ar spilgtu kubisko zonu, piedāvā izturību un eleganci.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:14px;font-weight:Demi Bold;color:#1E1F26&quot;&gt; Piemērotība gadījumiem&lt;/p&gt;&lt;p style=&quot;font-size:13px;font-weight:Medium;color:#4D5360&quot;&gt; Šis gredzens ir ideāli piemērots kāzām un jubilejām, tas kalpo kā perfekta personīga apņemšanās vai aksesuārs.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:14px;font-weight:Demi Bold;color:#1E1F26&quot;&gt; Zīmola reputācija&lt;/p&gt;&lt;p style=&quot;font-size:13px;font-weight:Medium;color:#4D5360&quot;&gt; Huitan, uzticams zīmols, kas pazīstams ar izcilo amatniecību, garantē kvalitāti un gandarījumu.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size:14px;font-weight:Demi Bold;color:#1E1F26&quot;&gt; Daudzpusīgi izmēri&lt;/p&gt;&lt;p style=&quot;font-size:13px;font-weight:Medium;color:#4D5360&quot;&gt; Pieejams izmēros no 6 līdz#10, šis gredzens garantē perfektu pielāgošanos visām saderīgajām sievietēm. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img data-original=&quot;https://fb-es.mrvcdn.com/kf/Eb5ee2b423503458a893ad053c9bd8300a.jpg&quot; alt=&quot;Huitan gredzena zilā sērija sievietēm 4 krāsās pieejamās saistības gredzena sudraba dārgakmens&quot; src=&quot;//img2.miravia.es/g/fb/kf/Eb5ee2b423503458a893ad053c9bd8300a.jpg_200x200q75.jpg&quot;&gt;&lt;/p&gt;</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Stāvoklis: NewFitment Type: Tiešs aizstājējsMAfture daļas numurs: 9075007 9085008. Daļas numurs: 95390887 95390883. Attēls nedaudz atšķiras no īstās lietas. Atļautā mērījuma kļūda ir +/- 1-3 cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tingimus: NewFitment Tüüp: otsene asendaja tootja osa Number: 9075007 9085008 teise osa number: 95390887 953908883FITME: Cruze jaoks 2010-2015COLOUR: Blackmaterial: Blackmaterial: Kummipaketi võib põhjustada: 1 x Sisselaskeavade sisaldus Pilt erineb pisut tõelisest asjast. Lubatud viga on +/- 1-3cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Edellytys: NewFitment Type: Suora korvaavanvalmistajan osanumero: 9075007 9085008OtHinumero: 95390887 95390883Fitment: For Cruze 2010-2015Colour: BlackMaterial: Rubberpackage Sisältö: 1 x sisääntulon säiliö ja pistorasiat. Hieman erilainen kuin todellinen asia. Mittauksen sallittu virhe on +/- 1-3 cm.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>https://img.fruugo.com/product/6/76/1624165766_max.jpg</text:p><text:p>https://img.fruugo.com/product/3/79/1624165793_max.jpg</text:p><text:p>https://img.fruugo.com/product/9/68/1624165689_max.jpg</text:p><text:p>https://img.fruugo.com/product/6/73/1624165736_max.jpg</text:p><text:p>https://img.fruugo.com/product/1/71/1624165711_max.jpg</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.05</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16359"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="21618" calcext:value-type="float">
+      <text:p>21618</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Engine parts</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
+      <text:p>7437612724049</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Valčių kopėčių diržo lentos kopėčių gumos užrakto juosta, išlaikanti „Bungee“ virvių laikiklius</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Laivu kāpņu siksnu dēļa kāpņu gumijas aizbīdņa josla, kas noturbje benzīna virvju turētāji, koplack1pcs</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Paadiredeli rihmalaua redel kummiriba riba, mis hoiab benji trossi hoidjaid1pcs</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Veneportaat hihnan lauta tikkaat kumi salpa -nauhan pidättävä benji köyden holkersblack1pcs</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Valčių kopėčių dirželis įlaipinimo kopėčios gumos užrakto juosta, išlaikanti „Bungee“ virvės ilgį: 152 mm/6 &amp;quot;; plotis: 47 mm/1,85 &amp;#39;; ūgis: 11 mm/0,43&amp;quot; Lengva montuoti ir naudoti.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Laivu kāpņu siksnu iekāpšana kāpņu gumijas aizbīdņa joslas stiprināšanas benzīna virvju turētājs: 152mm/6 &amp;quot;; platums: 47mm/1,85 &amp;#39;; augstums: 11 mm/0,43&amp;quot; Viegli uzstādīt un izmantot Turētāji</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Paadiredere rihmaga pardakoodiga kummiriba riba säilitab benjirossi hoidja pikkust: 152mm/6 &amp;quot;; laius: 47mm/1,85 &amp;#39;; Kõrgus: 11mm/0,43&amp;quot; hõlpsasti paigaldatav ja kasutatav. Omanikud</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Veneportaat hihnan lennon tikkaat kumisilmukan nauhan pidättävä benji-köyden pidike: 152 mm/6 &amp;quot;; leveys: 47 mm/1,85 &amp;#39;; korkeus: 11 mm/0,43&amp;quot; helppo asentaa ja käyttää.Firmly Stawed the tikkaat.3-Hole-suunnittelu: Marine Accessorsores Yacht -laatikoiden kumi-kaista: Blackpackage:</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>https://img.fruugo.com/product/5/74/1609852745_max.jpg</text:p><text:p>https://img.fruugo.com/product/4/69/1609852694_max.jpg</text:p><text:p>https://img.fruugo.com/product/0/80/1609852800_max.jpg</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.05</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16359"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="float" office:value="21618" calcext:value-type="float">
+      <text:p>21618</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Engine parts</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
+      <text:p>7437612724056</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>„Radiator Fan Thermo Switch 87“, skirtas VN800 VULCAN 800 1995-2005 Ninja ZX-9R ZX9R 1994-2003 1996-2000 Gold</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Radiatora ventilatora termo slēdzis 87 VN800 Vulcan 800 1995-2005 Ninja ZX-9R ZX9R 1994-2003 1996-2000 Gold</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Radiaatori ventilaatori termolüliti 87 VN800 jaoks Vulcan 800 1995-2005 Ninja ZX-9R ZX9R 1994-2003 1996-2000 Gold</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Jäähdyttimen tuulettimen lämpökytkin 87 VN800 VULCAN 800 1995-2005 NINJA ZX-9R ZX9R 1994-2003 1996-2000 Gold</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>DALIES NUMERIS: 27010-1202ORE DALIS NUMERIS 1990–1994ZX600 ZX6 1990-2002ZX600 ZZR600 2003-2005ZX750 ZX-7/7R/7RR 1989-2003ZX900 ZX-9R 1994-1997ZX1000 ZX10 1988-1990ZX100 ZX-11 1990-2001ZX100 ZZ-R1100 1993-2000z10zrx. ZR400F -II 1994-2008ZG1000 Concours 1986-2006VN400 Vulcan 400 1995-2003VN800 Vulcan 800 1995-2005NINJA ZX-9R ZX9R 1994-2003KLF400B 1993-1999KSV700 KFX700 2004-2009Colour:GoldMaterial:metalPackage Contents:1 x Radiator „Fan Thermo Switch“ minėtas paketo turinys, kiti produktai neįskaičiuojami. PASTABA: Šviesos ir skirtingos ekranai gali sukelti paveikslėlyje esančio elemento spalvą šiek tiek kitaip nei tikras dalykas. Matavimas leido klaida yra +/- 1-3cm.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Daļas numurs: 27010-1202. Daļas numurs: 270101202Fitment: par KVF400 Prarie 1997-2002kvf650 Prarie 2002-2003KVF650 BRUTE FORCE 2005-2010kvf700 Prarie 2004-2006kvf750 Brūtais spēks 2005-2007zx400 Zzr400 1989-006zx50000 ZZR550 1990-1994zx600 ZX6 1990-2002ZX600 ZZR600 2003-2005ZX750 ZX-7/7R/7RR 1989-2003ZX900 ZX-9R 1994-1997ZX1000 ZX10 1988-1990ZX1100 ZX-11 1990-001zx1100 Zr400F -II 1994-2008ZG1000 CONCOURS 1986-2006VN400 Vulcan 400 1995-2003Vn800 Vulcan 800 1995-2005ninja ZX-9R ZX9R 1994-2003KLF400B 1993-1999KSV700 KFX700 2004-2009COLOUR: Zelta Termo slēdzis tikai iepriekš minētais paketes saturs, citi produkti nav iekļauti. Piezīme: Gaismas un dažādi displeji var izraisīt attēla priekšmeta krāsu nedaudz atšķirīgi no reālās lietas. Atļautā mērījuma kļūda ir +/- 1-3 cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Osa number: 27010-1202 teise osa number: 270101202FITMENT: KVF400 jaoks Prardie 1997-2002KVF650 Prarie 2002-2003KVF650 BRUUTE FORCE 2005-2010KVF700 Prarie 2004-2006KVF750 Brute Force 2005-2007ZX400 zr400 1985550 1990-1994zx600 ZX6 1990-2002ZX600 ZZR600 2003-2005ZX750 ZX-7/7R/7RR 1989-2003ZX900 ZX-9R 1994-19997ZX1000 ZX10 1988-1990ZX1100 ZZ100 ZZ100 ZZ400 ZR400F -II 1994-2008ZG1000 CONCOURS 1986-2006VN400 VULCAN 400 1995-2003VN800 Vulcan 800 1995-2005NINJA ZX-9R ZX9R 1994-2003KLF400B 1993-199999SV700 KFX700 2004-2009Colour Ventilaatori termosüllitavalt ülaltoodud paketisisu, muud tooted ei ole kaasatud.Märkus: kerged ja erinevad kuvarid võivad põhjustada pildi värvi värvi pisut erinevat tegelikku asja. Lubatud viga on +/- 1-3cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Oonumero: 27010-1202 Osanumero: 270101202Fitment: KVF400 Prarie 1997-2002KVF650 Prarie 2002-2003KVF650 Brut Force 2005-2010KVF700 Prarie 2004-2006KVF750 Brute Force 2005-2007ZX400 ZZR400 1989-2006ZX500 1990-1994ZX600 ZX6 1990-2002ZX600 ZZR600 2003-2005ZX750 ZX-7/7R/7RR 1989-2003ZX900 ZX-9R 1994-1997ZX1000 ZX10 1988-1990ZX1100 ZX-11 1990-2001ZX1100 ZZ-R1900 1993-2000ZRX400 ZR400e ZR400F -II 1994-2008ZG1000 Concours 1986-2006VN400 Vulcan 400 1995-2003VN800 Vulcan 800 1995-2005ninja ZX-9R ZX9R 1994-2003KLF400B 1993-1999KSV700 KFX700 2004-2009COLOUR: GOLDMAIRIAIL: Tuulettimen lämpökytkentä yllä oleva pakkaussisältö, muita tuotteita ei sisällytetä. Huomautus: Kevyt ja erilaiset näytöt voivat aiheuttaa kuvan kohteen värin hieman erilaiselta kuin todellisesta asiasta. Mittauksen sallittu virhe on +/- 1-3 cm.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>https://img.fruugo.com/product/7/29/1624174297_max.jpg</text:p><text:p>https://img.fruugo.com/product/7/33/1624174337_max.jpg</text:p><text:p>https://img.fruugo.com/product/3/22/1624174223_max.jpg</text:p><text:p>https://img.fruugo.com/product/3/36/1624174363_max.jpg</text:p><text:p>https://img.fruugo.com/product/7/25/1624174257_max.jpg</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.05</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16359"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="float" office:value="21618" calcext:value-type="float">
+      <text:p>21618</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Engine parts</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
+      <text:p>7437612724063</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1 pora galinio buferio L+R šoninio dangtelio dangtelio „Honeycomb Grill“ 2058850053 2058850153 „Mercedes- C63 W205“ Black</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1 pāris aizmugurējais buferis L+R sānu vāciņa vāciņa šūnveida grils 2058850053 2058850153 Mercedes- C63 W205 Black</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1 paar tagumist kaitseraua L+R külgkatte kork kärgstruktuuri grill 2058850053 2058850153 Mercedes-C63 W205 jaoks Black</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1 pari takapuskuri L+R-sivukannen korkki hunajakenno grilli 2058850053 2058850153 Mercedes-C63 W205: lle Black</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Funkcijos: 100% visiškai nauja, niekada nebuvo naudojama. Naudojama ir patvariai naudojama. Puiki kokybė ir puikiai tinka. Tiesioginė pakaitinė korekcija jungtis be pjaustymo ar sujungimo. Remdamasis kokybės kontrolės standartais, skirtoms kurti ir išbandyti. Aukščiau esančio paketo turinio neįskaičiuoti kiti produktai. PASTABA: Šviesos ir skirtingos ekranai paveikslėlyje gali sukelti elemento spalvą šiek tiek kitaip nei tikrasis daiktas. Matavimas leido klaida yra +/- 1-3cm.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Funkcijas: 100% pavisam jauna, nekad nav izmantota. Tieša aizstāšana ar korekciju savienotāju bez sagriešanas vai splicēšanas. Striktu kvalitātes kontroles standarti, lai izveidotu un pārbaudītu. Specifikācija: Preču tips: Aizmugurējais bufera grilēšanas numurs: A2058850053 A2058850153Pieņemiet transportlīdzekļa. Saturs, citi produkti nav iekļauti. Piezīme: Gaisma un dažādi displeji var izraisīt attēla priekšmeta krāsu nedaudz atšķirīgi no reālās lietas. Atļautā mērījuma kļūda ir +/- 1-3 cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Funktsioonid: 100% uhiuus, pole kunagi kasutatud. Otsene asenduskorrektühendaja ilma lõikamise või splaissinguta.Siirikad kvaliteedikontrolli standardid ehitamiseks ja testimiseks.Sigifikatsioon: kauba tüüp: tagumine kaitseraua grillpart number: A2058850053 A2058850153Placement sõidukil: tagumine, vasakul, parempoolne, parempoolne: 2 x205 abspack: backmaters Ülaltoodud paketisisu grillonly, muid tooteid ei kuulu komplekti.Märkus: kerged ja erinevad kuvarid võivad põhjustada pildi värvi värvi pisut erinevat tegelikku asja. Lubatud viga on +/- 1-3cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ominaisuudet: 100% upouusi, jota ei ole koskaan käytetty. HELPY asennettava ja kestävä käytössä. Suuri laatu ja hyvä istuvuus. Suoran vaihdonkorjausliitin ilman leikkaamista tai silmukointia. STRICT-laadunvalvontastandardeja rakennettavaksi ja testattavaksi.SPEKSIKOMINEN: Tuotetyyppi: Takapuskuri Grillpart Numero: A2058850053 A2058850153PLAINTION Ajoneuvon: takaosa, vasemmisto, oikeaajulkaisu: Mercedes-C63 W205 AMG 2013-2017Colour: BlackAcial: Abspackegns. Grillonly yllä oleva pakkaussisältö, muita tuotteita ei sisällytetä. Huomautus: Kevyt ja erilaiset näytöt voivat aiheuttaa kuvan kohteen värin hiukan erilaiseksi kuin todellisesta asiasta. Mittauksen sallittu virhe on +/- 1-3 cm.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>https://img.fruugo.com/product/0/26/1699120260_max.jpg</text:p><text:p>https://img.fruugo.com/product/8/21/1699120218_max.jpg</text:p><text:p>https://img.fruugo.com/product/8/16/1699120168_max.jpg</text:p><text:p>https://img.fruugo.com/product/3/15/1699120153_max.jpg</text:p><text:p>https://img.fruugo.com/product/9/18/1699120189_max.jpg</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.05</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16359"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell office:value-type="float" office:value="21618" calcext:value-type="float">
+      <text:p>21618</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Engine parts</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
+      <text:p>7437612724070</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Automobilio stogas pritvirtintas AM FM radijo antenos antenos surinkimas 962501F522 Black <text:s/>silver</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Automašīnas jumts uzstādīts AM FM radio antena Aeral Montly 962501F522 Black <text:s/>silver</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Auto katus paigaldatud AM FM raadioantenni õhukomplekt 962501F522 Black <text:s/>silver</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Auton kattoasennettu AM FM -radioantennialtennikokoonpano 962501F522 Black <text:s/>silver</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Pagaminta iš plastiko, aukštos kokybės ir patvarios.</text:p><text:p>Lengva įdiegti, tiesiog atsukite ir nuimkite senąją anteną ant jūsų automobilio.</text:p><text:p>Stogo antena yra labai lengvai pritvirtinta ir taupoma.</text:p><text:p>Tipas: Automobilio stogo antena</text:p><text:p>Medžiaga: plastikas +metalas</text:p><text:p>Spalva: juodas +sidabras</text:p><text:p>Plakymas ant transporto priemonės: stogas</text:p><text:p>Gamintojo dalies numeris: 96250-1F522,962501F522</text:p><text:p>FITMACIJA: SORENTO 2009–2014 m.</text:p><text:p>Pakuotės turinys:</text:p><text:p>1 x automobilio stogo am fm antena</text:p><text:p>Tik aukščiau pateiktas paketo turinys, kiti produktai neįtraukti.</text:p><text:p>Pastaba: šviesos ir skirtingų ekranų elemento spalva gali sukelti šiek tiek kitokią nuo tikrojo daikto. Matavimas leido klaida yra +/- 1-3cm.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Izgatavots no plastmasas, augstas kvalitātes un izturīgs.</text:p><text:p>Viegli uzstādīt, vienkārši atskrūvējiet un noņemiet veco antenu uz automašīnas.</text:p><text:p>Jumta antena ir uzstādīta ļoti viegli un laika taupīšana.</text:p><text:p>Tips: automašīnas jumta antena</text:p><text:p>Materiāls: plastmasa +metāls</text:p><text:p>Krāsa: melna +sudraba</text:p><text:p>Izvietojums uz transportlīdzekļa: jumts</text:p><text:p>Ražotāja daļas numurs: 96250-1F522,962501F522</text:p><text:p>Montāža: Sorento 2009-2014</text:p><text:p>Paketes saturs:</text:p><text:p>1 x automašīnas jumts AM FM antena</text:p><text:p>Tikai iepriekš minētais paketes saturs, citi produkti nav iekļauti.</text:p><text:p>PIEZĪME: Gaismas un dažādi displeji var izraisīt priekšmeta krāsu attēlā nedaudz atšķirīgi no reālās lietas. Atļautā mērījuma kļūda ir +/- 1-3 cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Valmistatud plastist, kvaliteetsest ja vastupidavast.</text:p><text:p>Lihtne paigaldada, lihtsalt keerake lahti ja eemaldage oma auto vana antenn.</text:p><text:p>Katuseantenn on paigaldatud väga lihtsalt ja aja kokkuhoiuga.</text:p><text:p>Tüüp: auto katuse antenn</text:p><text:p>Materjal: plast +metall</text:p><text:p>Värv: must +hõbe</text:p><text:p>Paigutus sõidukile: katus</text:p><text:p>Tootja osa number: 96250-1F522,962501F522</text:p><text:p>Sobitus: Sorento jaoks 2009-2014</text:p><text:p>Paketi sisu:</text:p><text:p>1 x auto katus am fm antenn</text:p><text:p>Ainult ülaltoodud paketisisu, muid tooteid ei kuulu.</text:p><text:p>MÄRKUS. Kerged ja erinevad kuvarid võivad põhjustada pildil oleva eseme värvi pisut erinevat tegelikku asja. Lubatud viga on +/- 1-3cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Valmistettu muovista, korkealaatuisesta ja kestävästä.</text:p><text:p>Helppo asentaa, yksinkertaisesti avata ja poista vanha antenni autoosi.</text:p><text:p>Kattoantenni on asennettu erittäin helposti ja aikaa säästävä.</text:p><text:p>Tyyppi: Auton kattoantenni</text:p><text:p>Materiaali: muovi +metalli</text:p><text:p>Väri: musta +hopea</text:p><text:p>Sijoittelu ajoneuvoon: katto</text:p><text:p>Valmistajan osanumero: 96250-1F522,962501F522</text:p><text:p>Asennus: Sorento 2009-2014</text:p><text:p>Paketti sisältö:</text:p><text:p>1 x auton katto AM FM -antenni</text:p><text:p>Vain yllä oleva paketti sisältö, muita tuotteita ei sisälly hintaan.</text:p><text:p>HUOMAUTUS: Kevyt ja erilaiset näytöt voivat aiheuttaa kuvan kohteen värin hiukan erilaiseksi kuin todellisesta asiasta. Mittauksen sallittu virhe on +/- 1-3 cm.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>https://img.fruugo.com/product/7/19/1676955197_max.jpg</text:p><text:p>https://img.fruugo.com/product/3/10/1676955103_max.jpg</text:p><text:p>https://img.fruugo.com/product/0/30/1676955300_max.jpg</text:p><text:p>https://img.fruugo.com/product/4/14/1676955144_max.jpg</text:p><text:p>https://img.fruugo.com/product/0/25/1676955250_max.jpg</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.05</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16359"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="float" office:value="21618" calcext:value-type="float">
+      <text:p>21618</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Engine parts</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
+      <text:p>7437612724087</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>CDI jungiklio dėžutė „Mercury“ / „Mariner“ 40–125 AG 4 cilindro 332-5772A5,332-5772A7 As shown</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>CDI slēdža kaste dzīvsudrabam / Mariner 40-125HP 4 Cyl 332-5772A5,332-5772A7 As shown</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>CDI lüliti kast elavhõbeda / meremehe 40-125HP 4 CYL 332-5772A5,332-5772A7 As shown</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>CDI-kytkinlaatikko Mercury / Mariner 40-125HP 4 CYL 332-5772A5 332-5772A7 As shown</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nauji ir aukštos kokybės kelionės: 332-5772A1, 332-5772A2, 332-5772A3, 332-5772A4, 332-5772A5, 332-5772A7, 114-5772 ir 18-5881fits: 40 (4 CYL) SERIAL # C159200-G58999999999999999999999999999999999-50 -50 (40 (4 cilindrų) serija # 5531630 ir aukštesnioji 75 (4 cilindrų) serija # 6432901 ir aukštesniosios B209468-6437999115 (4 cilindrų) Serija # C100000-G4379999125 (4 cilindrų) Serija # D283222-G43799999999Color skiriasi nuo tikro dalyko. Matavimas leido klaida yra +/- 1-3cm.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Jauni un augstas kvalitātes relācijas: 332-5772A1, 332-5772A2, 332-5772A3, 332-5772A4, 332-5772A5, 332-5772A7, 114-5772 un 18-5881FITS: 40 (4 Cyl) Servial # C159200-G5899999999999-55-50) (4 cyl) Serial # 5531630 and higher75 (4 cyl) Serial # 6432901 and higher80 (4 cyl) Serial # 4831999-643290080 Jet Serial # D283222-643799985 (4 cyl) Serial # 4366802-4831998100 (4 cyl) Serial # B209468-64379991115 (4 Cyl) Serial # C100000-G437999125 (4 Cyl) Sērijas # D2832222-G4379999COLOR: kā parādīts parādīts: abscbackage SATURS: 1 X CDI pārslēgšanās kaste var parādīt iepriekš minēto paketi. atšķiras no īstās lietas. Atļautā mērījuma kļūda ir +/- 1-3 cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Uued ja kõrge kvaliteediga ülesanded: 332-5772A1, 332-5772A2, 332-5772A3, 332-5772A4, 332-5772A5, 332-5772A7, 114-5772 ja 18-5881FITS: 40-seeria (4 Cyl) nr C1599 (4 silindrit) seeria # 5531630 ja kõrgem75 (4 silindrit) seeria # 6432901 ja kõrgem80 (4 silindri) seeria # 4831999-643290080 JET SERIAL # D283222-64379985 (4-CYL) SERIAL # 4366802-4802- B209468-6437999115 (4 Cyl) Serial # C100000-G437999125 (4 silindri) seeria # D283222-G43799999COLOR: AS-i näidatudMaterial: Abspactage&amp;#39;i sisu: 1 x CDI-lüliti, mis on ülaltoodud, ei ole erinevad. Natuke erineb päris asjast. Lubatud viga on +/- 1-3cm.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Uudet ja korkealaatuiset laadut: 332-5772A1, 332-5772A2, 332-5772A3, 332-5772A4, 332-5772A5, 332-5772A7, 114-5772 ja 18-5881FITS: 40 (4 CYL) Serial # C159200 (4 sylinterin) Sarja # 5531630 ja korkeampi75 (4 sylinterit) Serial # 6432901 ja korkeampi80 (4 sylinterit) Sarja # 4831999-6432990080 JET-sarja # D283222-643799985 (4 CYL) Serial # 4366802-48319998100 (4 CYL) Serial # 4366802-48319985 B209468-6437999115 (4 sylinterit) Serial # C100000-G437999125 (4 sylinterit) Sarja # D283222-G4379999Color: Kuten esitetty Material: AbsPacge Sisältö: 1 X CDI -kytkin Boxonly Yllä oleva pakkaussisältö. erilainen kuin todellinen asia. Mittauksen sallittu virhe on +/- 1-3 cm.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>https://img.fruugo.com/product/7/26/1677004267_max.jpg</text:p><text:p>https://img.fruugo.com/product/0/20/1677004200_max.jpg</text:p><text:p>https://img.fruugo.com/product/8/15/1677004158_max.jpg</text:p><text:p>https://img.fruugo.com/product/3/36/1677004363_max.jpg</text:p><text:p>https://img.fruugo.com/product/7/33/1677004337_max.jpg</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.05</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16359"/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
